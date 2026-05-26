@@ -30,34 +30,34 @@
               <div class="accordion-body px-0 pb-0 pt-3">
                 <ul class="list list-inline mb-0">
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Dresses</a>
+                    <a href="#" class="menu-link py-1">Clear Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Shorts</a>
+                    <a href="#" class="menu-link py-1">Leather Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Sweatshirts</a>
+                    <a href="#" class="menu-link py-1">Silicone Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Swimwear</a>
+                    <a href="#" class="menu-link py-1">Tough Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Jackets</a>
+                    <a href="#" class="menu-link py-1">Wallet Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">T-Shirts & Tops</a>
+                    <a href="#" class="menu-link py-1">Designer Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Jeans</a>
+                    <a href="#" class="menu-link py-1">Battery Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Trousers</a>
+                    <a href="#" class="menu-link py-1">Slim Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Men</a>
+                    <a href="#" class="menu-link py-1">MagSafe Cases</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Jumpers & Cardigans</a>
+                    <a href="#" class="menu-link py-1">iPhone 15 Series</a>
                   </li>
                 </ul>
               </div>
@@ -106,7 +106,7 @@
             <h5 class="accordion-header" id="accordion-heading-size">
               <button class="accordion-button p-0 border-0 fs-5 text-uppercase" type="button" data-bs-toggle="collapse"
                 data-bs-target="#accordion-filter-size" aria-expanded="true" aria-controls="accordion-filter-size">
-                Sizes
+                iPhone Model
                 <svg class="accordion-button__icon type2" viewBox="0 0 10 6" xmlns="http://www.w3.org/2000/svg">
                   <g aria-hidden="true" stroke="none" fill-rule="evenodd">
                     <path
@@ -119,12 +119,14 @@
               aria-labelledby="accordion-heading-size" data-bs-parent="#size-filters">
               <div class="accordion-body px-0 pb-0">
                 <div class="d-flex flex-wrap">
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">XS</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">S</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">M</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">L</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">XL</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">XXL</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">15 Pro Max</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">15 Pro</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">15</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">14 Pro Max</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">14 Pro</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">14</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">13 Pro</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">13</a>
                 </div>
               </div>
             </div>
@@ -150,13 +152,11 @@
               aria-labelledby="accordion-heading-brand" data-bs-parent="#brand-filters">
               <div class="search-field multi-select accordion-body px-0 pb-0">
                 <select class="d-none" multiple name="total-numbers-list">
-                  <option value="1">Adidas</option>
-                  <option value="2">Balmain</option>
-                  <option value="3">Balenciaga</option>
-                  <option value="4">Burberry</option>
-                  <option value="5">Kenzo</option>
-                  <option value="5">Givenchy</option>
-                  <option value="5">Zara</option>
+                  <option value="1">Apple</option>
+                  <option value="2">Spigen</option>
+                  <option value="3">OtterBox</option>
+                  <option value="4">CaseTify</option>
+                  <option value="5">Nomad</option>
                 </select>
                 <div class="search-field__input-wrapper mb-3">
                   <input type="text" name="search_text"
@@ -165,32 +165,24 @@
                 </div>
                 <ul class="multi-select__list list-unstyled">
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Adidas</span>
-                    <span class="text-secondary">2</span>
+                    <span class="me-auto">Apple</span>
+                    <span class="text-secondary">18</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Balmain</span>
-                    <span class="text-secondary">7</span>
+                    <span class="me-auto">Spigen</span>
+                    <span class="text-secondary">24</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Balenciaga</span>
-                    <span class="text-secondary">10</span>
+                    <span class="me-auto">OtterBox</span>
+                    <span class="text-secondary">16</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Burberry</span>
-                    <span class="text-secondary">39</span>
+                    <span class="me-auto">CaseTify</span>
+                    <span class="text-secondary">32</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Kenzo</span>
-                    <span class="text-secondary">95</span>
-                  </li>
-                  <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Givenchy</span>
-                    <span class="text-secondary">1092</span>
-                  </li>
-                  <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Zara</span>
-                    <span class="text-secondary">48</span>
+                    <span class="me-auto">Nomad</span>
+                    <span class="text-secondary">12</span>
                   </li>
                 </ul>
               </div>
@@ -233,91 +225,6 @@
       </div>
 
       <div class="shop-list flex-grow-1">
-        <div class="swiper-container js-swiper-slider slideshow slideshow_small slideshow_split" data-settings='{
-            "autoplay": {
-              "delay": 5000
-            },
-            "slidesPerView": 1,
-            "effect": "fade",
-            "loop": true,
-            "pagination": {
-              "el": ".slideshow-pagination",
-              "type": "bullets",
-              "clickable": true
-            }
-          }'>
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div class="slide-split h-100 d-block d-md-flex overflow-hidden">
-                <div class="slide-split_text position-relative d-flex align-items-center"
-                  style="background-color: #f5e6e0;">
-                  <div class="slideshow-text container p-3 p-xl-5">
-                    <h2
-                      class="text-uppercase section-title fw-normal mb-3 animate animate_fade animate_btt animate_delay-2">
-                      Women's <br /><strong>ACCESSORIES</strong></h2>
-                    <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Accessories are the best way to
-                      update your look. Add a title edge with new styles and new colors, or go for timeless pieces.</h6>
-                  </div>
-                </div>
-                <div class="slide-split_media position-relative">
-                  <div class="slideshow-bg" style="background-color: #f5e6e0;">
-                    <img loading="lazy" src="assets/images/shop/shop_banner3.jpg" width="630" height="450"
-                      alt="Women's accessories" class="slideshow-bg__img object-fit-cover" />
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="slide-split h-100 d-block d-md-flex overflow-hidden">
-                <div class="slide-split_text position-relative d-flex align-items-center"
-                  style="background-color: #f5e6e0;">
-                  <div class="slideshow-text container p-3 p-xl-5">
-                    <h2
-                      class="text-uppercase section-title fw-normal mb-3 animate animate_fade animate_btt animate_delay-2">
-                      Women's <br /><strong>ACCESSORIES</strong></h2>
-                    <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Accessories are the best way to
-                      update your look. Add a title edge with new styles and new colors, or go for timeless pieces.</h6>
-                  </div>
-                </div>
-                <div class="slide-split_media position-relative">
-                  <div class="slideshow-bg" style="background-color: #f5e6e0;">
-                    <img loading="lazy" src="assets/images/shop/shop_banner3.jpg" width="630" height="450"
-                      alt="Women's accessories" class="slideshow-bg__img object-fit-cover" />
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="swiper-slide">
-              <div class="slide-split h-100 d-block d-md-flex overflow-hidden">
-                <div class="slide-split_text position-relative d-flex align-items-center"
-                  style="background-color: #f5e6e0;">
-                  <div class="slideshow-text container p-3 p-xl-5">
-                    <h2
-                      class="text-uppercase section-title fw-normal mb-3 animate animate_fade animate_btt animate_delay-2">
-                      Women's <br /><strong>ACCESSORIES</strong></h2>
-                    <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Accessories are the best way to
-                      update your look. Add a title edge with new styles and new colors, or go for timeless pieces.</h6>
-                  </div>
-                </div>
-                <div class="slide-split_media position-relative">
-                  <div class="slideshow-bg" style="background-color: #f5e6e0;">
-                    <img loading="lazy" src="assets/images/shop/shop_banner3.jpg" width="630" height="450"
-                      alt="Women's accessories" class="slideshow-bg__img object-fit-cover" />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="container p-3 p-xl-5">
-            <div class="slideshow-pagination d-flex align-items-center position-absolute bottom-0 mb-4 pb-xl-2"></div>
-
-          </div>
-        </div>
-
-        <div class="mb-3 pb-2 pb-xl-3"></div>
 
         <div class="d-flex justify-content-between mb-4 pb-md-2">
           <div class="breadcrumb mb-0 d-none d-md-block flex-grow-1">

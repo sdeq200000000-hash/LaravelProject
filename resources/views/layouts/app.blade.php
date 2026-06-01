@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>KickVault — Premium Air Jordan Sneakers</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="author" content="surfside media" />
   <link rel="shortcut icon" href="{{ asset('assets/images/favicon.ico') }}" type="image/x-icon">
@@ -270,7 +270,7 @@
 
       <div class="logo">
         <a href="{{ route('home.index') }}">
-          <img src="{{ asset('images/logo/logo1.svg') }}" alt="CaseVault" class="logo__image d-block" style="width:130px;" />
+          <img src="{{ asset('images/logo/logo1.svg') }}" alt="KickVault" class="logo__image d-block" style="width:160px;" />
         </a>
       </div>
 
@@ -390,7 +390,7 @@
       <div class="header-desk header-desk_type_1">
         <div class="logo">
           <a href="{{ route('home.index') }}">
-          <img src="{{ asset('images/logo/logo1.svg') }}" alt="CaseVault" class="logo__image d-block" style="width:160px;">          </a>
+          <img src="{{ asset('images/logo/logo1.svg') }}" alt="KickVault" class="logo__image d-block" style="width:190px;">          </a>
         </div>
 
         <nav class="navigation">
@@ -445,10 +445,10 @@
                     <h6 class="sub-menu__title fs-base">Quicklinks</h6>
                     <ul class="sub-menu__list list-unstyled">
                       <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">New Arrivals</a></li>
-                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Clear Cases</a></li>
-                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Leather Cases</a></li>
-                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Tough Cases</a></li>
-                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">MagSafe Cases</a></li>
+                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Air Jordan 1</a></li>
+                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Air Jordan 4</a></li>
+                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Air Jordan 11</a></li>
+                      <li class="sub-menu__item"><a href="{{ route('shop.index') }}" class="menu-link menu-link_us-s">Limited Edition</a></li>
                     </ul>
                   </div>
 
@@ -505,9 +505,9 @@
   <footer class="border-top mt-5 py-4 bg-body">
     <div class="container d-flex flex-column flex-md-row align-items-center justify-content-between gap-3">
       <a href="{{ route('home.index') }}">
-        <img src="{{ asset('images/logo/logo1.svg') }}" alt="CaseVault" style="width:130px;" />
+        <img src="{{ asset('images/logo/logo1.svg') }}" alt="KickVault" style="width:160px;" />
       </a>
-      <span class="text-secondary small">©2025 CaseVault. Premium iPhone Cases. All rights reserved.</span>
+      <span class="text-secondary small">©2026 KickVault. Premium Air Jordan Sneakers. All rights reserved.</span>
       <div class="d-flex gap-3">
         <a href="#" class="text-secondary small">Privacy Policy</a>
         <a href="#" class="text-secondary small">Terms</a>

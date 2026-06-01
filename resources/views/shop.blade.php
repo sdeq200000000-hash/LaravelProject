@@ -30,34 +30,28 @@
               <div class="accordion-body px-0 pb-0 pt-3">
                 <ul class="list list-inline mb-0">
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Clear Cases</a>
+                    <a href="#" class="menu-link py-1">Running Shoes</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Leather Cases</a>
+                    <a href="#" class="menu-link py-1">Basketball Shoes</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Silicone Cases</a>
+                    <a href="#" class="menu-link py-1">Lifestyle</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Tough Cases</a>
+                    <a href="#" class="menu-link py-1">Training Shoes</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Wallet Cases</a>
+                    <a href="#" class="menu-link py-1">Skate Shoes</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Designer Cases</a>
+                    <a href="#" class="menu-link py-1">Retro Classic</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Battery Cases</a>
+                    <a href="#" class="menu-link py-1">High Tops</a>
                   </li>
                   <li class="list-item">
-                    <a href="#" class="menu-link py-1">Slim Cases</a>
-                  </li>
-                  <li class="list-item">
-                    <a href="#" class="menu-link py-1">MagSafe Cases</a>
-                  </li>
-                  <li class="list-item">
-                    <a href="#" class="menu-link py-1">iPhone 15 Series</a>
+                    <a href="#" class="menu-link py-1">Low Tops</a>
                   </li>
                 </ul>
               </div>
@@ -84,16 +78,16 @@
               aria-labelledby="accordion-heading-1" data-bs-parent="#color-filters">
               <div class="accordion-body px-0 pb-0">
                 <div class="d-flex flex-wrap">
-                  <a href="#" class="swatch-color js-filter" style="color: #0a2472"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #d7bb4f"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #282828"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #b1d6e8"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #9c7539"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #d29b48"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #e6ae95"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #d76b67"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #111111"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #ffffff"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #c8102e"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #0d47a1"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #2e7d32"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #e65100"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #d4a017"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #9c27b0"></a>
                   <a href="#" class="swatch-color swatch_active js-filter" style="color: #bababa"></a>
-                  <a href="#" class="swatch-color js-filter" style="color: #bfdcc4"></a>
+                  <a href="#" class="swatch-color js-filter" style="color: #8d6e63"></a>
                 </div>
               </div>
             </div>
@@ -106,7 +100,7 @@
             <h5 class="accordion-header" id="accordion-heading-size">
               <button class="accordion-button p-0 border-0 fs-5 text-uppercase" type="button" data-bs-toggle="collapse"
                 data-bs-target="#accordion-filter-size" aria-expanded="true" aria-controls="accordion-filter-size">
-                iPhone Model
+                Shoe Size (US)
                 <svg class="accordion-button__icon type2" viewBox="0 0 10 6" xmlns="http://www.w3.org/2000/svg">
                   <g aria-hidden="true" stroke="none" fill-rule="evenodd">
                     <path
@@ -119,13 +113,16 @@
               aria-labelledby="accordion-heading-size" data-bs-parent="#size-filters">
               <div class="accordion-body px-0 pb-0">
                 <div class="d-flex flex-wrap">
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">15 Pro Max</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">15 Pro</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">15</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">14 Pro Max</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">14 Pro</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">14</a>
-                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">13 Pro</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">7</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">7.5</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">8</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">8.5</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">9</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">9.5</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">10</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">10.5</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">11</a>
+                  <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">12</a>
                   <a href="#" class="swatch-size btn btn-sm btn-outline-light mb-3 me-3 js-filter">13</a>
                 </div>
               </div>
@@ -152,11 +149,11 @@
               aria-labelledby="accordion-heading-brand" data-bs-parent="#brand-filters">
               <div class="search-field multi-select accordion-body px-0 pb-0">
                 <select class="d-none" multiple name="total-numbers-list">
-                  <option value="1">Apple</option>
-                  <option value="2">Spigen</option>
-                  <option value="3">OtterBox</option>
-                  <option value="4">CaseTify</option>
-                  <option value="5">Nomad</option>
+                  <option value="1">Nike</option>
+                  <option value="2">Adidas</option>
+                  <option value="3">Jordan</option>
+                  <option value="4">New Balance</option>
+                  <option value="5">Puma</option>
                 </select>
                 <div class="search-field__input-wrapper mb-3">
                   <input type="text" name="search_text"
@@ -165,24 +162,24 @@
                 </div>
                 <ul class="multi-select__list list-unstyled">
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Apple</span>
-                    <span class="text-secondary">18</span>
+                    <span class="me-auto">Nike</span>
+                    <span class="text-secondary">4</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Spigen</span>
-                    <span class="text-secondary">24</span>
+                    <span class="me-auto">Adidas</span>
+                    <span class="text-secondary">3</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">OtterBox</span>
-                    <span class="text-secondary">16</span>
+                    <span class="me-auto">Jordan</span>
+                    <span class="text-secondary">2</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">CaseTify</span>
-                    <span class="text-secondary">32</span>
+                    <span class="me-auto">New Balance</span>
+                    <span class="text-secondary">2</span>
                   </li>
                   <li class="search-suggestion__item multi-select__item text-primary js-search-select js-multi-select">
-                    <span class="me-auto">Nomad</span>
-                    <span class="text-secondary">12</span>
+                    <span class="me-auto">Puma</span>
+                    <span class="text-secondary">1</span>
                   </li>
                 </ul>
               </div>
@@ -207,16 +204,16 @@
             </h5>
             <div id="accordion-filter-price" class="accordion-collapse collapse show border-0"
               aria-labelledby="accordion-heading-price" data-bs-parent="#price-filters">
-              <input class="price-range-slider" type="text" name="price_range" value="" data-slider-min="10"
-                data-slider-max="1000" data-slider-step="5" data-slider-value="[250,450]" data-currency="$" />
+              <input class="price-range-slider" type="text" name="price_range" value="" data-slider-min="50"
+                data-slider-max="300" data-slider-step="5" data-slider-value="[75,200]" data-currency="$" />
               <div class="price-range__info d-flex align-items-center mt-2">
                 <div class="me-auto">
                   <span class="text-secondary">Min Price: </span>
-                  <span class="price-range__min">$250</span>
+                  <span class="price-range__min">$75</span>
                 </div>
                 <div>
                   <span class="text-secondary">Max Price: </span>
-                  <span class="price-range__max">$450</span>
+                  <span class="price-range__max">$200</span>
                 </div>
               </div>
             </div>
@@ -315,7 +312,7 @@
                     @if ($product->sale_price)
                       <s>${{ $product->regular_price }}</s> ${{ $product->sale_price }}
                     @else
-                      ${{ $product->regular_price }}    
+                      ${{ $product->regular_price }}
                     @endif
                   </span>
                 </div>
